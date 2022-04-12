@@ -1,12 +1,13 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-void main()
+int main()
 {
 	int* array = NULL;
 	unsigned length, i;
 
 	printf("Enter length of array: ");
-	scanf_s("%d", &length);
+	scanf("%d", &length);
 
 	if (length > 0)
 	{

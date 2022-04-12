@@ -1,1 +1,5 @@
-Hello! It's network operating systems lessons
+Compile programm:
+    makefile nh -- n - lab number, h - program number.
+
+Launch program:
+    ./nh.out -- n - lab number, h - program number.
